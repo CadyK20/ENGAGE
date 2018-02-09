@@ -94,12 +94,12 @@ padding:10px;
 
 .Welcome{
 	position: absolute;
-		top: 32%;
+		top: 35%;
 		left:5%;
 }
 
 .column2of2{
 	position: absolute;
-		top: 32%;
+		top: 35%;
 		left:50%;
 }
