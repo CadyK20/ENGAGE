@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Engage Homepage</title>
+		<meta name="description"
+			content="engange hompage" />
+		<meta name="keywords"
+			content="engage, about, homepage" />
+		<meta name="robots"
+			content="nofollow" />          
+		<link href="css_files/engage_homepage_css.css" type=x2"text/css"
+			rel="stylesheet" />
+	</head>
+
+	<body>
+		<div class="header">
+		<img src="images/Engage Logo" title="Engage Logo"
+			width="150" height="112.5" align="left" id="logo" />
+		<h1 id="title">Engage</h1>
+			
+		<ul id="menu_bar">
+			<li><a href="engage_homepage.html">Home</a></li>
+			<li><a href="about_engage.html">About</a></li>
+			<li><a href="">New Account</a></li>
+			<li><a href="">Event Listings</a></li>
+		</ul>
+
+		<span class="search">
+		<form action="http://www.engage.com/search.php">
+			<p>Search</p>
+			<input type="search" name="search" />
+			<input type="submit" value="Search" />
+		</form>
+		</span><br />
+
+		</div>
+
+		<h2>Welcome to Engage</h2>
+		<br />
+		<div class="Welcome">
+			<p>Welcome, Engage is a platform for organizations and individuals to come together to collaborate on community service events. Organizations are able to post events they are hosting, and to ask for volunteers. This provides a variety of different opportunities for anyone looking to volunteer locally. This is especially helpful for students who are looking to log community service hours. Engage offers an easy to manage system for students to use to record their hours. With Engage it is now easier than ever for people to do make the world a better place, together!</p>
+		</div>
+		
+
+		<div class="column2of2">
+			<p>Our platform caters to both organizations and individuals, so we have pearsonalized accounts to fit your needs! Organizations can post events, look for volunteers, and much more. Both students and adults looking to volunteer can search for the perfect opportunities that fit their specific needs. <a hreft="">Logging hours</a> is now easier than ever! <a href="">Register here!</a>
+			</p>
+		</div>
+
+
+		</div>	
+	</body>	
+
+
+</html>
+
