@@ -1,0 +1,105 @@
+
+.header{
+	color: #FFFFFF;
+	width: 100%;
+	background-color: #FFFFFF;
+	padding: 5px;
+	float:left;
+	border-style: none;
+}
+
+#logo{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	border-style: none;
+
+}
+
+#title{
+	position:absolute;
+	top: 0px;
+	left: 10%;
+	border-style: none;
+}
+
+#menu_bar{
+	position: absolute;
+	top: 20%;
+	border-style: none;
+}
+
+
+h1{
+	font-size:400%;
+	text-transform: uppercase;
+	color: #FF4500;
+	font-family: Arial, Verdana, sans-serif;
+}
+
+li{
+	font-size: 20px; 
+	color: #00FFFF;
+	font-family: Arial, sans-serif;
+	display: inline;
+	margin-right: 15px;
+	background-color: #AFEEEE;
+	padding: 5px;
+	margin: 3px;
+	border-style:none;
+}
+
+li:hover{
+	background-color: #DDA0DD;
+	text-decoration: none;
+}
+
+a{
+	text-decoration:none;
+	text-align:right;
+	color: #FFA500;
+}
+
+
+h2{
+	font-family: Arial, Verdana, sans-serif;
+	font-size: 200%;
+	color: #FF4500;
+	margin: 10px;
+	position: absolute;
+		top: 30%;
+		left: 3%;
+}
+
+.about{
+color: #20B2AA;
+font-size: 100%;
+border: 2.5px solid #FF6347;
+padding:10px;
+}
+
+.search{
+	text-align: right;
+	margin: 10px;
+}
+
+.Welcome, .column2of2{ 
+	width: 500px;
+	float: left;
+	text-align: left;
+	margin: 10px;
+	font-family: Arial, Verdana, sans-serif;
+	font-size: 150%;
+}
+
+.Welcome{
+	position: absolute;
+		top: 32%;
+		left:5%;
+}
+
+.column2of2{
+	position: absolute;
+		top: 32%;
+		left:60%;
+}
